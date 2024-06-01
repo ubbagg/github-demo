@@ -1,2 +1,2 @@
 # github-demo
-This is a demo.<br>Author - Garv
+This is a demo.<br>Author - Garv Garg
